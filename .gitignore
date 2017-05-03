@@ -1,5 +1,6 @@
 ﻿#忽视所有文件，除了src目录和.gitignore
 .*
 **/node_modules
+**/dist
 !.gitignore
 !.babelrc
